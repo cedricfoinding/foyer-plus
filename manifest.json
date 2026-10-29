@@ -1,0 +1,12 @@
+{
+  "name": "Foyer+ — Gestion du foyer",
+  "short_name": "Foyer+",
+  "description": "Courses, stocks, repas et budget familial.",
+  "lang": "fr-FR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f0",
+  "theme_color": "#174c3a",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
